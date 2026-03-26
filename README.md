@@ -46,7 +46,6 @@ bin/gpm install admin-helios-refresh
 1. Download the plugin from [GitHub](https://github.com/paulhibbitts/grav-plugin-admin-helios-refresh)
 2. Unzip and rename the folder to `admin-helios-refresh`
 3. Copy the folder to `user/plugins/admin-helios-refresh`
-```
 
 ## Applying the Colour Scheme
 
