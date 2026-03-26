@@ -1,6 +1,6 @@
 name: Admin Helios Refresh
 type: plugin
-version: 1.0.0
+version: 0.9.0
 description: "A Helios-inspired Admin Panel refresh: zinc dark nav, accessible blues, muted purple accent, rounded corners, and subtle shadows."
 icon: paint-brush
 author:
