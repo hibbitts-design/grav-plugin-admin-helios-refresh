@@ -4,9 +4,9 @@
 
 <p float="left">
   <picture>
-    <img alt="Grav Helios-inspired Admin Panel, page list" src="https://raw.githubusercontent.com/hibbittsdesign/grav-plugin-admin-helios-refresh/refs/heads/main/screenshot-1.png" width="49%">
+    <img alt="Grav Helios-inspired Admin Panel, page list" src="https://raw.githubusercontent.com/hibbitts-design/grav-plugin-admin-helios-refresh/refs/heads/main/screenshot-1.png?token=GHSAT0AAAAAAC3VKN5DADSO75ON3GBDRQJO2OFKT3Q" width="49%">
   </picture>&nbsp;<picture>
-    <img alt="Grav Helios-inspired Admin Panel, edit page" src="https://raw.githubusercontent.com/hibbittsdesign/grav-plugin-admin-helios-refresh/refs/heads/main/screenshot-2.png" width="49%">
+    <img alt="Grav Helios-inspired Admin Panel, edit page" src="https://raw.githubusercontent.com/hibbitts-design/grav-plugin-admin-helios-refresh/refs/heads/main/screenshot-2.png?token=GHSAT0AAAAAAC3VKN5CGRO6IPOKHHK6NVG42OFKUVQ" width="49%">
   </picture>
 </p>
 
