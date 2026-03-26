@@ -10,7 +10,7 @@
   </picture>
 </p>
 
-> _Example Grav Helios-inspired Admin Panel._
+> _Example Grav Helios-inspired Admin Panel pages._
 
 A Helios-inspired refresh for the Grav Admin Panel – zinc dark nav, accessible blues, muted purple accent, and CSS enhancements for a more modern feel. No Grav Premium Helios theme required.
 
