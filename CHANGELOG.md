@@ -10,6 +10,7 @@
     * All key colour pairs verified at WCAG AA contrast ratios
     * Delete button colour darkened for better accessibility
     * Login page astronaut visibility fix
+    * Moved Helios colour preset to `helios-preset.yaml` for easier maintenance
 
 # v0.9.0
 ## 25-03-2026
