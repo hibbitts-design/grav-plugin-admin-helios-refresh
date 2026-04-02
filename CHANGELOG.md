@@ -11,6 +11,7 @@
     * Delete button colour darkened for better accessibility
     * Login page astronaut visibility fix
     * Moved Helios colour preset to `helios-preset.yaml` for easier maintenance
+    * Updated admin font size "default" option label to "Default (no changes)" for clarity
 
 # v0.9.0
 ## 25-03-2026
